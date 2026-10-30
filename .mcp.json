@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hiro": {
+      "type": "http",
+      "url": "https://app.hiro.fm/mcp"
+    }
+  }
+}
