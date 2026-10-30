@@ -21,5 +21,6 @@
   ],
   "skills": "./skills/",
   "privacyPolicyUrl": "https://hiro.fm/privacy/",
-  "termsOfServiceUrl": "https://hiro.fm/terms/"
+  "termsOfServiceUrl": "https://hiro.fm/terms/",
+  "icon": ".claude-plugin/icon.png"
 }
