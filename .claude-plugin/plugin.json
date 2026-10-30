@@ -22,5 +22,7 @@
   "skills": "./skills/",
   "privacyPolicyUrl": "https://hiro.fm/privacy/",
   "termsOfServiceUrl": "https://hiro.fm/terms/",
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "supportUrl": "https://hiro.fm/contact/",
+  "documentationUrl": "https://app.hiro.fm/ai/mcp"
 }
