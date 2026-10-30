@@ -20,25 +20,6 @@
     "show soul"
   ],
   "skills": "./skills/",
-  "interface": {
-    "displayName": "Hiro.fm",
-    "shortDescription": "Your own AI for your Hiro show: 31 playbooks on your real numbers",
-    "longDescription": "Hiro sells private podcasts and audio courses for coaches, course creators and authors. This plugin gives Claude the /hiro skill: 31 ready-made playbooks that work from your show's Show Soul (who it is for, your voice, best moments, goals) and the live numbers Hiro already has (downloads, visits, opt-ins, sales, completion). Set up the soul, learn your voice from your episodes, write this week's email, plan the next six episodes, find which episode loses people, or get a plan to hit a listener number by a date. It uses the Hiro.fm connector, so connect your Hiro account first at app.hiro.fm/ai/mcp. No Hiro credits are used.",
-    "developerName": "Hiro.fm",
-    "category": "Marketing",
-    "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
-    ],
-    "defaultPrompt": [
-      "Set up my show soul",
-      "What's the one thing holding my show back right now?",
-      "Write this week's email to my listeners about my newest episode"
-    ],
-    "websiteURL": "https://hiro.fm",
-    "privacyPolicyURL": "https://hiro.fm/privacy/",
-    "termsOfServiceURL": "https://hiro.fm/terms/",
-    "screenshots": []
-  }
+  "privacyPolicyUrl": "https://hiro.fm/privacy/",
+  "termsOfServiceUrl": "https://hiro.fm/terms/"
 }
