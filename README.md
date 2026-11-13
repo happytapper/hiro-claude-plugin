@@ -4,7 +4,7 @@ Your own AI for your Hiro show. [Hiro](https://hiro.fm) sells private podcasts a
 
 ## What you need
 
-A Hiro account, connected to Claude. Open https://app.hiro.fm/ai/mcp in Hiro and follow the three steps: copy the URL, add it as a connector, sign in. Installing this plugin also offers the Hiro.fm connector. No Hiro credits are used by the connector or by this skill.
+A Hiro account, connected to Claude. Installing this plugin offers the Hiro.fm connector. To add it by hand, add a custom connector in Claude with the URL https://app.hiro.fm/mcp (the same for everyone), then sign in to Hiro and approve. No Hiro credits are used by the connector or by this skill.
 
 ## How to use it
 
